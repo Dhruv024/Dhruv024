@@ -1,18 +1,57 @@
-# 💫 About Me:
-I'm Currently Working on to build AI Automation & Agents.<br>I'm looking to collaborate on Automation Workflow And also Graphic Designing.<br>I'm Currently looking for help with clients and non automated companies 
+<h1 align="center">Hi, I'm Dhruv Prajapati 👋</h1>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/uknownn.16) 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Dhruv024&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Dhruv024&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv024&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <b>AI Automation Engineer | Intelligent Agents & Workflow Architect</b><br>
+  Building smart automation systems that replace repetitive work with AI
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Dhruv024&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+I’m currently focused on building **AI Automation Systems, Intelligent Agents, and Workflow Pipelines** that help businesses move from manual processes to automated intelligence.
+
+- 🔭 Working on **AI Automation & Agent-based Systems**
+- ⚙️ Designing **Automation Workflows** for real-world use cases
+- 🎨 Experienced in **Graphic Designing & Video Editing**
+- 📊 Background in **Data Analysis**
+- 🤝 Looking to collaborate on **Automation Workflows & Creative Projects**
+- 💼 Actively looking for **clients & non-automated companies** to help them scale
+- 💬 Ask me for more details — open to discussions & opportunities
+
+---
+
+## 🚀 Skills & Expertise
+
+### 🤖 AI & Automation
+- AI Automation Workflow Design  
+- Intelligent AI Agents  
+- Task Orchestration & Process Automation  
+- Prompt Engineering  
+- LLM-based Systems (AI/ML)
+
+### 📊 Data & Analysis
+- Data Cleaning & Processing  
+- Data Visualization  
+- Business Insights & Reporting  
+
+### 🎨 Creative Skills
+- Graphic Designing  
+- Video Editing  
+- UI/UX Design Basics  
+- Branding & Visual Content  
+
+### ⚙️ Development & Tools
+- API Integration  
+- Automation Logic  
+- Script-Based Workflows  
+- Problem Solving & Optimization  
+
+---
+
+## 🛠️ Programming Languages & Technologies
+
+```text
+C • C++ • Python • JavaScript • PHP  
+HTML5 • CSS3 • AI/ML • Data Analysis  
+Automation Logic • Scripting
