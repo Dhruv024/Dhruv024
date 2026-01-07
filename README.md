@@ -1,61 +1,21 @@
-# I'm Dhruv Prajapati  
-### AI Automation Engineer | Intelligent Agents & Workflow Architect
+# 💫 About Me:
+### Hi there 👋 I'm **Dhruv Prajapati**<br><br>I’m currently working on **AI Automation & Intelligent Agents**.  <br>AI Workflow, Automation, Analytics & Creative Tech.<br><br>- 🔭 I’m currently building **AI Automation & Workflow Agents**<br>- 👯 I’m looking to collaborate on **Automation Workflow & Graphic Designing**<br>- 💼 I’m looking for help with **clients & non-automated companies**<br>- 💬 Ask me about **AI Automation, Data Analytics, Video Editing & Design**<br>- 📫 How to reach me: **dhruvprajapati@example.com**<br>- ⚡ Fun fact: **I code & create things that automate boring work!**<br><br>---<br><br>### 🔗 Connect with me<br><br><p align="left"><br>  <a href="https://github.com/dhruvprajapati"><img src="https://img.shields.io/badge/GitHub-black?style=flat&logo=github" alt="GitHub"></a><br>  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" alt="LinkedIn"></a><br>  <a href="mailto:dhruvprajapati@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail" alt="Email"></a><br>  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter" alt="Twitter"></a><br></p><br><br>---<br><br>### 🛠️ Languages and Tools<br><br><p align="left"><br>  <img alt="C" src="https://img.shields.io/badge/C-%2300599C?style=flat&logo=c&logoColor=white" /><br>  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C?style=flat&logo=c%2B%2B&logoColor=white" /><br>  <img alt="Python" src="https://img.shields.io/badge/Python-%2314354C?style=flat&logo=python&logoColor=white" /><br>  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=black" /><br>  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat&logo=html5&logoColor=white" /><br>  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-%231572B6?style=flat&logo=css3&logoColor=white" /><br>  <img alt="PHP" src="https://img.shields.io/badge/PHP-%23777BB4?style=flat&logo=php&logoColor=white" /><br>  <img alt="AI/ML" src="https://img.shields.io/badge/AI/ML-%23FF6C37?style=flat&logo=neuralink&logoColor=white" /><br></p><br><br>---<br><br>### 📊 GitHub Stats<br><br><!-- GPRM usually includes these widgets --><br><p align="center"><br>  <img src="https://github-readme-stats.vercel.app/api?username=dhruvprajapati&show_icons=true&theme=radical" alt="GitHub stats" /><br>  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvprajapati&layout=compact&theme=radical" alt="Top Languages" /><br></p><br><br>---<br><br>### 🏆 GitHub Trophies<br><br><p align="center"><br>  <img src="https://github-profile-trophy.vercel.app/?username=dhruvprajapati&theme=radical" alt="GitHub trophies" /><br></p><br>
 
-I’m currently building smart AI Automation systems, automated workflow pipelines, and creative automation tools with data insights.  
-I also work on Graphic Designing and Video Editing, and I’m always open to collaborate with teams or help companies improve their processes.
 
-- 🔧 Currently working on AI Automation & Intelligent Agent workflows  
-- 📈 Building automation projects and tools that solve real-world problems  
-- 🎨 Designing creative systems, graphics, and automation-driven content  
-- 📊 Data Analysis & Automation Insights  
-- 🤝 Looking to collaborate on workflows, client projects, and AI solutions  
-- 💬 Ask me about anything regarding AI workflows, automation, design, or analytics
+# 💻 Tech Stack:
+![AssemblyScript](https://img.shields.io/badge/assembly%20script-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Quasar](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black) ![Quarkus](https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white) ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white) ![Teradata](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![Adobe Dreamweaver](https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=for-the-badge&logo=ClipStudioPaint&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Fastlane](https://img.shields.io/badge/fastlane-%2382bd4e.svg?style=for-the-badge&logo=fastlane&logoColor=black) ![CloudBees](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Mocha](https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Puppeteer](https://img.shields.io/badge/Puppeteer-%2340B5A4.svg?style=for-the-badge&logo=Puppeteer&logoSize=auto&logoColor=black) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![AMD](https://img.shields.io/badge/AMD-%23000000.svg?style=for-the-badge&logo=amd&logoColor=white) ![Bevy](https://img.shields.io/badge/bevy-%23232326.svg?style=for-the-badge&logo=bevy&logoColor=white) ![Battle.net](https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Rancher](https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Ubisoft](https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Dhruv024&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Dhruv024&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Dhruv024&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### Connect with me  
-[![Website](https://img.shields.io/badge/Website-Online-blue)](https://your-website.com)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-Dhruv@gmail.com-D14836)](mailto:Dhruv@gmail.com)  
-[![Twitter](https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2)](https://twitter.com/yourhandle)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Dhruv024&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Dhruv024&icon=1&color=8)](https://visitcount.itsvg.in)
 
-### Languages and Tools
-
-<p>
-<img alt="C" width="32" src="https://img.shields.io/badge/-C-000?style=flat&logo=c&logoColor=white" />
-<img alt="C++" width="32" src="https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
-<img alt="Python" width="32" src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" />
-<img alt="JavaScript" width="32" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-<img alt="HTML5" width="32" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-<img alt="CSS3" width="32" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-<img alt="PHP" width="32" src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white" />
-<img alt="AI/ML" width="32" src="https://img.shields.io/badge/-AI/ML-FF6C37?style=flat&logo=neuralink&logoColor=white" />
-</p>
-
----
-
-### 📌 What I’m Focused On
-
-- 🧠 Intelligent Agent Architecture  
-- 🔁 Automated Workflow Systems  
-- 📊 Data Analytics & Automation  
-- 🎨 Graphic Designing & Creative Builds  
-- 🎥 Video Editing and Content Automation
-
----
-
-### 📂 Pinned Projects
-
-<!-- You can replace these with your real project links once created -->
-| Repository | Description |
-|------------|-------------|
-| **AI-Automation-Toolkit** | AI workflows & intelligent agent templates |
-| **Workflow-Builder** | Tools to automate business processes |
-| **Design-Automate** | Creative design + automation projects |
-
----
-
-You’ve discovered my GitHub — let’s get connected!  
-Feel free to clone projects, create issues, or reach out.
-
-Happy coding! 🚀
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
