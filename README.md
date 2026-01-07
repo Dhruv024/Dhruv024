@@ -93,11 +93,7 @@ I’m currently focused on building **AI Automation Systems, Intelligent Agents,
 
 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40" height="40"/>
 
-  <!-- Automation / Backend -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" width="40" height="40"/>
 
   <!-- Databases / Cache -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40"/>
@@ -124,12 +120,8 @@ I’m currently focused on building **AI Automation Systems, Intelligent Agents,
   <!-- CMS / Web -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="40" height="40"/>
 
-  <!-- Design / Media -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/illustrator/illustrator-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/premierepro/premierepro-plain.svg" width="40" height="40"/>
+
 <img src="https://cdn.simpleicons.org/blender/F5792A" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/autodesk/000000" width="40" height="40"/>
-<img src="https://cdn.simpleicons.org/unity/000000" width="40" height="40"/>
+
 
 </p>
