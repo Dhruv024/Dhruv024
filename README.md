@@ -67,13 +67,11 @@ I’m currently focused on building **AI Automation Systems, Intelligent Agents,
   <!-- Frameworks -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
 
   <!-- AI / Data -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/keras/keras-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="40" height="40"/>
 
   <!-- Databases -->
@@ -82,7 +80,6 @@ I’m currently focused on building **AI Automation Systems, Intelligent Agents,
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
 
   <!-- DevOps / Tools -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
@@ -122,6 +119,15 @@ I’m currently focused on building **AI Automation Systems, Intelligent Agents,
 
 
 <img src="https://cdn.simpleicons.org/blender/F5792A" width="40" height="40"/>
+<!-- Motion / 3D / Creative Tech -->
+<img src="https://cdn.simpleicons.org/cinema4d/011A6A" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/three.js/000000" width="40" height="40"/>
+
+<!-- AI / Automation / Data -->
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/openai/412991" width="40" height="40"/>
+<img src="https://cdn.simpleicons.org/apacheairflow/017CEE" width="40" height="40"/>
+
 
 
 </p>
